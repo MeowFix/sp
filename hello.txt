@@ -1,3 +1,7 @@
 Hello world!
 I want to tell you about space
 less than a century ago, humanity began to explore outer space.
+#solar system
+*The solar system is a planetary system that includes the Central star-the Sun-and all natural space objects orbiting the Sun. It was formed by gravitational compression of a gas dust cloud about 4.57 billion years ago*
+**In the Solar system, there are two regions filled with small bodies**
+~~The asteroid belt, located between Mars and Jupiter~~
